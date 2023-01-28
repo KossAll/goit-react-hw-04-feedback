@@ -1,0 +1,19 @@
+.styledItem {
+font-size: 12px;
+font-weight: 500;
+margin-bottom: 5px;
+
+} 
+
+.styledStats {
+list-style: none;
+text-decoration: none;
+margin: 0;
+padding: 0;
+margin-left: 20px;
+text-align: left;
+}
+
+.statistics_style{
+    margin-left: 5px;
+}
